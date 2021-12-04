@@ -42,7 +42,7 @@
 каждого из релизов, а также их пересечение представлено
 на диаграмме:
 
-<img src = images/topic_modeling_res.png width="500" height="330">
+<img src = images/topic_modeling_res.png width="500" height="360">
 
 Таким образом, отвечая на поставленный в задаче вопрос:
 
