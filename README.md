@@ -16,10 +16,10 @@
 
 Для версии 2020.2:
 
-<img src = images/top_10_02.png width="500" height="200">
+<img src = images/top_10_02.png width="500" height="330">
 
 Для версии 2020.3:
 
-<img src = images/top_10_03.png width="500" height="200">
+<img src = images/top_10_03.png width="500" height="330">
 
 
